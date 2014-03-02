@@ -23,9 +23,9 @@ namespace Super_Rawr_Type_WinPhone8
 
         private void Browser_Loaded(object sender, RoutedEventArgs e)
         {
-            Browser.IsScriptEnabled = true;
-
             // Add your URL here
+            // Enables JS first, then loads the page.
+            Browser.IsScriptEnabled = true;
             Browser.Navigate(new Uri(MainUri, UriKind.Relative));
         }
 
