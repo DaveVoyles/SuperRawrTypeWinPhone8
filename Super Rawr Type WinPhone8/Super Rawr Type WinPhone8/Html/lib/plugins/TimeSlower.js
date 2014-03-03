@@ -152,7 +152,7 @@ ig.module(
                         this.returningToNormal = true;
                         this.changedTimer.set(this.returnToNormalDuration);
                         ig.Timer.timeScale = this.timeScaleHolder;
-                //        console.log("timescale constant = " + ig.Timer.timeScale);
+                       // ig.log("timescale constant = " + ig.Timer.timeScale);
 
                     }
                 }
@@ -165,7 +165,7 @@ ig.module(
                         this.returningToNormal = false;
                         this.constant = false;
                         this.slowingDown = false;
-                  //      console.log("timescale returning to normal = " + ig.Timer.timeScale);
+                     //   ig.log("timescale returning to normal = " + ig.Timer.timeScale);
 
                     }
                 }

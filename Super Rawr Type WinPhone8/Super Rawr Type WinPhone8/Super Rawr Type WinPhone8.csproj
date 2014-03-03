@@ -228,6 +228,7 @@
     <Content Include="Html\lib\game\entities\bullet.js" />
     <Content Include="Html\lib\game\entities\BulletGenerator.js" />
     <Content Include="Html\lib\game\entities\death-explosion.js" />
+    <Content Include="Html\lib\game\entities\delay.js" />
     <Content Include="Html\lib\game\entities\EnemyBullet01.js" />
     <Content Include="Html\lib\game\entities\EnemyBullet01Generator.js" />
     <Content Include="Html\lib\game\entities\EnemyBullet02.js" />

@@ -1,0 +1,31 @@
+{"frames": [
+	{
+		"filename": "purchase-text.png", "rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":0,"w":633,"h":27},
+		"spriteSourceSize": {"x":0,"y":0,"w":633,"h":27},
+		"sourceSize": {"w":633,"h":27}
+	},
+	{
+		"filename": "selction-box-highlight.png", "rotated": false,"trimmed": true,
+		"frame": {"x":122,"y":63,"w":55,"h":55},
+		"spriteSourceSize": {"x":0,"y":0,"w":55,"h":55},
+		"sourceSize": {"w":55,"h":55}
+	},
+	{
+		"filename": "select-text.png", "rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":29,"w":395,"h":32},
+		"spriteSourceSize": {"x":0,"y":0,"w":395,"h":32},
+		"sourceSize": {"w":395,"h":32}
+	},
+	{
+		"filename": "selection-boxes.png", "rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":63,"w":120,"h":51},
+		"spriteSourceSize": {"x":0,"y":0,"w":120,"h":51},
+		"sourceSize": {"w":120,"h":51}
+	},
+{"emptyObject":"keeps this template from breaking"}]
+,"meta": {
+	"app": "ShoeBox",
+	"size": {"w":1024,"h":128}
+}
+}

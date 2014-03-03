@@ -27,6 +27,8 @@ namespace Super_Rawr_Type_WinPhone8
             // Enables JS first, then loads the page.
             Browser.IsScriptEnabled = true;
             Browser.Navigate(new Uri(MainUri, UriKind.Relative));
+
+
         }
 
         // Navigates back in the web browser's navigation stack, not the applications.
